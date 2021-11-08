@@ -1,0 +1,16 @@
+D:\Çalışma\soru2\bin\Debug\net5.0\soru2.exe
+D:\Çalışma\soru2\bin\Debug\net5.0\soru2.deps.json
+D:\Çalışma\soru2\bin\Debug\net5.0\soru2.runtimeconfig.json
+D:\Çalışma\soru2\bin\Debug\net5.0\soru2.runtimeconfig.dev.json
+D:\Çalışma\soru2\bin\Debug\net5.0\soru2.dll
+D:\Çalışma\soru2\bin\Debug\net5.0\ref\soru2.dll
+D:\Çalışma\soru2\bin\Debug\net5.0\soru2.pdb
+D:\Çalışma\soru2\obj\Debug\net5.0\soru2.csproj.AssemblyReference.cache
+D:\Çalışma\soru2\obj\Debug\net5.0\soru2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Çalışma\soru2\obj\Debug\net5.0\soru2.AssemblyInfoInputs.cache
+D:\Çalışma\soru2\obj\Debug\net5.0\soru2.AssemblyInfo.cs
+D:\Çalışma\soru2\obj\Debug\net5.0\soru2.csproj.CoreCompileInputs.cache
+D:\Çalışma\soru2\obj\Debug\net5.0\soru2.dll
+D:\Çalışma\soru2\obj\Debug\net5.0\ref\soru2.dll
+D:\Çalışma\soru2\obj\Debug\net5.0\soru2.pdb
+D:\Çalışma\soru2\obj\Debug\net5.0\soru2.genruntimeconfig.cache

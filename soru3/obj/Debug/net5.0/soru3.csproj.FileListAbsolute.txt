@@ -1,0 +1,16 @@
+D:\Çalışma\soru3\bin\Debug\net5.0\soru3.exe
+D:\Çalışma\soru3\bin\Debug\net5.0\soru3.deps.json
+D:\Çalışma\soru3\bin\Debug\net5.0\soru3.runtimeconfig.json
+D:\Çalışma\soru3\bin\Debug\net5.0\soru3.runtimeconfig.dev.json
+D:\Çalışma\soru3\bin\Debug\net5.0\soru3.dll
+D:\Çalışma\soru3\bin\Debug\net5.0\ref\soru3.dll
+D:\Çalışma\soru3\bin\Debug\net5.0\soru3.pdb
+D:\Çalışma\soru3\obj\Debug\net5.0\soru3.csproj.AssemblyReference.cache
+D:\Çalışma\soru3\obj\Debug\net5.0\soru3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Çalışma\soru3\obj\Debug\net5.0\soru3.AssemblyInfoInputs.cache
+D:\Çalışma\soru3\obj\Debug\net5.0\soru3.AssemblyInfo.cs
+D:\Çalışma\soru3\obj\Debug\net5.0\soru3.csproj.CoreCompileInputs.cache
+D:\Çalışma\soru3\obj\Debug\net5.0\soru3.dll
+D:\Çalışma\soru3\obj\Debug\net5.0\ref\soru3.dll
+D:\Çalışma\soru3\obj\Debug\net5.0\soru3.pdb
+D:\Çalışma\soru3\obj\Debug\net5.0\soru3.genruntimeconfig.cache

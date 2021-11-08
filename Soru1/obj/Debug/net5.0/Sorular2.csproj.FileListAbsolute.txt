@@ -1,0 +1,16 @@
+D:\Çalışma\Sorular2\bin\Debug\net5.0\Sorular2.exe
+D:\Çalışma\Sorular2\bin\Debug\net5.0\Sorular2.deps.json
+D:\Çalışma\Sorular2\bin\Debug\net5.0\Sorular2.runtimeconfig.json
+D:\Çalışma\Sorular2\bin\Debug\net5.0\Sorular2.runtimeconfig.dev.json
+D:\Çalışma\Sorular2\bin\Debug\net5.0\Sorular2.dll
+D:\Çalışma\Sorular2\bin\Debug\net5.0\ref\Sorular2.dll
+D:\Çalışma\Sorular2\bin\Debug\net5.0\Sorular2.pdb
+D:\Çalışma\Sorular2\obj\Debug\net5.0\Sorular2.csproj.AssemblyReference.cache
+D:\Çalışma\Sorular2\obj\Debug\net5.0\Sorular2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Çalışma\Sorular2\obj\Debug\net5.0\Sorular2.AssemblyInfoInputs.cache
+D:\Çalışma\Sorular2\obj\Debug\net5.0\Sorular2.AssemblyInfo.cs
+D:\Çalışma\Sorular2\obj\Debug\net5.0\Sorular2.csproj.CoreCompileInputs.cache
+D:\Çalışma\Sorular2\obj\Debug\net5.0\Sorular2.dll
+D:\Çalışma\Sorular2\obj\Debug\net5.0\ref\Sorular2.dll
+D:\Çalışma\Sorular2\obj\Debug\net5.0\Sorular2.pdb
+D:\Çalışma\Sorular2\obj\Debug\net5.0\Sorular2.genruntimeconfig.cache
